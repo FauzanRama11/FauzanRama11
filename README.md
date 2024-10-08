@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there👋
+**`Software Developer, Quality Assurance, UI/UX Design)`**
 
-<!--
+My name is Fauzan, I’m a final year Undergaraduate Student majoring in Information System with a strong attention to detail and a high interest in software development. I am committed to continuous learning and improving my technical skills to acquire practical work experience.
+
 **FauzanRama11/FauzanRama11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
