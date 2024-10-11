@@ -1,7 +1,24 @@
-## Hi there👋
-**`Software Developer, Quality Assurance, UI/UX Design)`**
+## Hi there! Fauzan's Here 👋
+**`Software Developer, Quality Assurance, UI/UX Designer)`**
 
-My name is Fauzan, I’m a final year Undergaraduate Student majoring in Information System with a strong attention to detail and a high interest in software development. I am committed to continuous learning and improving my technical skills to acquire practical work experience.
+People call me Fauzan, I’m a final year Undergaraduate Student majoring in Information System with a strong attention to detail and a high interest in software development. I thrive on solving complex problems and enjoy creating efficient, user-friendly applications. My interests lie in various aspects of software development, including web development, interaction design, and testing methodologies.
+
+### 🌱 Current Focus
+I am currently exploring Software Testing. I believe in continuous learning and am always looking for opportunities to enhance my skills and collaborate on innovative projects.
+
+
+### 🙋🏻‍♂️ Know me better
+Feel free to reach out if you want to collaborate on a project or just want to discuss technology. Thank you for visiting my profile!
+<p>          
+   <!-- LinkedIn Profile Badge -->
+   <a href="https://www.linkedin.com/in/fauzanramadhan11">
+     <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+             
+   <!-- Email Me Badge -->
+   <a href="mailto:fauzanzietugas@gmail.com">
+     <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail"/></a>
+</p>
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
@@ -19,5 +36,7 @@ My name is Fauzan, I’m a final year Undergaraduate Student majoring in Informa
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Jira" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
 <br />
+<br />
 
-          
+### 🧑🏻‍💻 Personal Graph
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FauzanRama11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FauzanRama11" /></p>
