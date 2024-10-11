@@ -1,11 +1,7 @@
 ## Hi there! Fauzan's Here 👋
 **`Software Developer, Quality Assurance, UI/UX Designer)`**
 
-People call me Fauzan, I’m a final year Undergaraduate Student majoring in Information System with a strong attention to detail and a high interest in software development. I thrive on solving complex problems and enjoy creating efficient, user-friendly applications. My interests lie in various aspects of software development, including web development, interaction design, and testing methodologies.
-
-### 🌱 Current Focus
-I am currently exploring Software Testing. I believe in continuous learning and am always looking for opportunities to enhance my skills and collaborate on innovative projects.
-
+People call me Fauzan, I’m a final year Undergraduate Student majoring in Information System with a strong attention to detail and a high interest in software development. I thrive on solving complex problems and enjoy creating efficient, user-friendly applications. I am currently exploring Software Testing. I believe in continuous learning and am always looking for opportunities to enhance my skills and collaborate on innovative projects.
 
 ### 🙋🏻‍♂️ Know me better
 Feel free to reach out if you want to collaborate on a project or just want to discuss technology. Thank you for visiting my profile!
